@@ -1,0 +1,25 @@
+{
+  "short_name": "Voxelle",
+  "name": "Voxelle",
+  "icons": [
+    {
+      "src": "https://logodix.com/logo/569358.png", 
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/Kinnex-logo.png", 
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/public/Voxelle-logo.png",  
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
